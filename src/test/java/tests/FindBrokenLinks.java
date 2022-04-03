@@ -14,7 +14,7 @@ public class FindBrokenLinks extends TestBase {
 	
 	Set<String> brokenLinks = new HashSet<String>();
 	int count = 0;
-	String fileName = "Suammary_BrokenLinks.txt",
+	String fileName = "Summary_BrokenLinks.txt",
 		   URL = "https://www.planittesting.com/nz/home";
 	
 	
